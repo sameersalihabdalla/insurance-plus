@@ -1,0 +1,18 @@
+@font-face{
+    font-family: "myfont";
+    src: url(myfont3.ttf);
+    font-weight: normal;
+
+    }
+body {
+  font-family: "myfont";
+}
+
+.alert {
+  padding: 0.5rem;
+}
+
+.form-wrap h1,
+.form-wrap .form-label {
+  font-weight: 600;
+}
